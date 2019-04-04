@@ -50,11 +50,11 @@ If a client has sent a request to download a file that is not available on the s
 
 ### List of commands for the user: 
 
-show – To show a list of the files available on the system.
-create [filename] – To create a file of the given name. 
-download [filename] – To download a file of the given name. 
-edit [filename] - To edit a file.
-bye – To disconnect from the server 
+show – To show a list of the files available on the system.<br/>
+create [filename] – To create a file of the given name.<br/>
+download [filename] – To download a file of the given name.<br/>
+edit [filename] - To edit a file.<br/>
+bye – To disconnect from the server.<br/> 
 
 ## Getting Started
 
